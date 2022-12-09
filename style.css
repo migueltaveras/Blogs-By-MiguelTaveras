@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: white;
+  font-size: 45px;
+  
+}
+h3{
+  color:black;
+  font-size: 45px
+}
+
+body{
+  font-size:55px;
+ 
+  
+
+  
+}
+h2{
+  color:white;
+  font-size:55px;
+}
+html{
+
+  background-image: url("https://i.ibb.co/ZMrH2LL/pexels-mark-mccammon-1934846.jpg");
+  
+  background-size: cover, no repeat;
+ 
+   
+}
+button{
+  font-size:50px;
+}
