@@ -4,16 +4,16 @@ html, body {
 }
 h1{
   color: white;
-  font-size: 45px;
+  font-size: 30px;
   
 }
 h3{
   color:black;
-  font-size: 45px
+  font-size: 30px
 }
 
 body{
-  font-size:55px;
+  font-size:30px;
  
   
 
@@ -21,16 +21,16 @@ body{
 }
 h2{
   color:white;
-  font-size:55px;
+  font-size:30px;
 }
 html{
 
-  background-image: url("https://i.ibb.co/ZMrH2LL/pexels-mark-mccammon-1934846.jpg");
+  background-image: url("https://images.pexels.com/photos/207353/pexels-photo-207353.jpeg?auto=compress&cs=tinysrgb&w=600");
   
   background-size: cover, no repeat;
  
    
 }
 button{
-  font-size:50px;
+  font-size:30px;
 }
