@@ -23,14 +23,16 @@ h2{
   color:white;
   font-size:30px;
 }
-html{
-
-  background-image: url("https://images.pexels.com/photos/268415/pexels-photo-268415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-  
-  background-size: cover, no repeat;
- 
-   
+body {
+  background-image: url("https://images.unsplash.com/photo-1668079078320-76dba982b397?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI0fHxjbGljayUyMGltYWdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+  background-size: 120% 120%;
+  transition: all 0.5s ease;
 }
+
+body:hover {
+  background-size: 90% 90%;
+}
+
 button{
   font-size:30px;
 }
